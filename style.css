@@ -2,7 +2,7 @@
 
 body {
     background-color: #fce3bd;
-    font-family: 'Nunito';
+    font-family: 'Nunito', Arial;
     margin: 0;
 }
 .parallax_image {
@@ -65,6 +65,6 @@ body {
 }
 
 .video {
-    height: 400px;
+    height: 300px;
     width: 100%;
 }
